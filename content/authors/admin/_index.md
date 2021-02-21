@@ -69,7 +69,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-We study:
+We aim:
 1. To empower microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity. To investigate the behavior and molecular mechanisms of cells during the process, based on techniques in materials chemistry, photoelectrochemical catalysis, metabolic engineering, microbial electrosynthesis, and synthetic biology.
 2. To promote the construction and application of semi-artificial photosynthetic cell factories. To construct novel semi-artificial photosynthetic systems, via modular assembly, cell surface-display, biomineralization and self-assembly (of cells and semiconducting nanomaterials); to explore their potential applications in energy, environment and biomedicine fields.
 
