@@ -93,21 +93,15 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "1068 Xueyuan Ave", city = "Shenzhen, Guangdong 518055", region = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "22.598736989904868", longitude = "113.98576828264318"}
 
 # Directions for visitors to locate you.
 directions = "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (CAS)"
 
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -196,7 +190,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  post_view = 3
   publication_view = 2
   talk_view = 2
 
@@ -235,7 +229,7 @@ plugins_js  = []
   #   "": No search engine
   #   "wowchemy": Built-in search engine
   #   "algolia": Algolia (https://www.algolia.com)
-  provider = "wowchemy"
+  provider = ""
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
