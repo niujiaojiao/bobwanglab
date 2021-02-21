@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wangbo Lab
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Institute of Synthetic Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+  url: http://english.siat.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -69,9 +69,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+We study:
+1. To empower microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity. To investigate the behavior and molecular mechanisms of cells during the process, based on techniques in materials chemistry, photoelectrochemical catalysis, metabolic engineering, microbial electrosynthesis, and synthetic biology.
+2. To promote the construction and application of semi-artificial photosynthetic cell factories. To construct novel semi-artificial photosynthetic systems, via modular assembly, cell surface-display, biomineralization and self-assembly (of cells and semiconducting nanomaterials); to explore their potential applications in energy, environment and biomedicine fields.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+We’re looking for people who share these interests and are looking for graduate students, postdocs, assistant investigators or research assistants to come join us!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
