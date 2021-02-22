@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tian-Feng Hou（曾翠平)
+title: Tian-Feng Hou（侯天凤)
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 # organizations:
