@@ -63,4 +63,3 @@ We aim:
 
 We’re looking for people who share these interests and are looking for graduate students, postdocs, assistant investigators or research assistants to come join us!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
