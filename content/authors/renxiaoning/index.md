@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cuiping Zeng（曾翠平)
+title: Xiaoning Ren（任晓宁)
 
 # Username (this should match the folder name)
 authors:
-- zengcuiping
+- renxiaoning
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Research Assistant
 
 # Organizations/Affiliations
 # organizations:
