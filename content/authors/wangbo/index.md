@@ -21,21 +21,21 @@ role: Principal Investigator (PI)
 bio: 
 
 interests:
-- Cancer Evolution
-- Evolutionary Genomics
-- Computational Biology
+- Semi-artificial photosynthesis
+- Microbial living functional materials
+- Photoelectrochemical energy conversion
 
 education:
   courses:
-  - course: Postdoc in Cancer Genomics and Evolution
-    institution: Stanford University School of Medicine
-    year: 2015-2020
-  - course: PhD in Evolutionary Genetics
-    institution: Beijing Institute of Genomics, Chinese Academy of Sciences (CAS)
-    year: 2010-2015
-  - course: BSc in Biomedical Engineering
-    institution: Huazhong University of Science and Technology
-    year: 2006-2010
+  - course: Postdoc
+    institution: The Chinese University of Hong Kong
+#    year: 2015-2020
+  - course: PhD
+    institution: The Chinese University of Hong Kong
+#    year: 2010-2015
+  - course: MS
+    institution: Tsinghua University
+#    year: 2006-2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +69,5 @@ user_groups:
 - Principal Investigator
 ---
 
-Zheng Hu is a principal investigator in the Institute of Synthetic Biology at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). Before joining SIAT, he was a postdoctoral fellow in Dr Chrsitina Curtis’s laboratory at Stanford University School of Medicine. He received his Ph.D. in Evolutionary Genetics at Beijing Institute of Genomics CAS under the supervision of Dr Chung-I Wu. He received his bachelor's degree in Biomedical Engineering from Huazhong University of Science and Technology. Dr Hu’s research interests lie at the interface of evolutionary genomics and cancer biology and he has focused on developing and applying computational and evolutionary approaches to study the mechanisms and dynamics of tumor evolution.
+Bo Wang is an associate professor in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. He is also a Principal Investigator of the Semi-Artificial Photosynthetic Cell Foundries Laboratory, Center for Synthetic Biochemistry. Dr. Wang received his Master’s degree in Tsinghua University, and Ph.D. in The Chinese University of Hong Kong. He was also a Postdoc fellow in Department of Chemistry in CUHK before joining the faculty at SIAT. His works were published in Energy Environ. Sci., Adv. Energy Mater., Nano Energy, Nanoscale, J. Mater. Chem. A, Appl. Catal. B-Environ. and other influential journals. Major research directions include semi-artificial photosynthesis, microbial living functional materials, environmental remediation and photoelectrochemical energy conversion.
+
