@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zheng Hu (胡政)
+title: Bo Wang (王博)
 
 # Username (this should match the folder name)
 authors:
-- huzheng
+- wangbo
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zheng.hu@siata.ac.cn'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/huzheng1
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=yS3rSBEAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/huzheng16
+  link: 'mailto:bo.wang@siat.ac.cn'
+#- icon: twitter
+#  icon_pack: fab
+# link: https://twitter.com/huzheng1
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=yS3rSBEAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/huzheng16
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +69,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Zheng Hu is a principal investigator in the Institute of Synthetic Biology at Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). Before joining SIAT, he was a postdoctoral fellow in Dr Chrsitina Curtis’s laboratory at Stanford University School of Medicine. He received his Ph.D. in Evolutionary Genetics at Beijing Institute of Genomics CAS under the supervision of Dr Chung-I Wu. He received his bachelor's degree in Biomedical Engineering from Huazhong University of Science and Technology. Dr Hu’s research interests lie at the interface of evolutionary genomics and cancer biology and he has focused on developing and applying computational and evolutionary approaches to study the mechanisms and dynamics of tumor evolution.
+Bo Wang is an associate professor in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences. He is also a Principal Investigator of the Semi-Artificial Photosynthetic Cell Foundries Laboratory, Center for Synthetic Biochemistry. Dr. Wang received his Master’s degree in Tsinghua University, and Ph.D. in The Chinese University of Hong Kong. He was also a Postdoc fellow in Department of Chemistry in CUHK before joining the faculty at SIAT. His works were published in Energy Environ. Sci., Adv. Energy Mater., Nano Energy, Nanoscale, J. Mater. Chem. A, Appl. Catal. B-Environ. and other influential journals. Major research directions include semi-artificial photosynthesis, microbial living functional materials, environmental remediation and photoelectrochemical energy conversion.
