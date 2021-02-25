@@ -29,13 +29,13 @@ education:
   courses:
   - course: Postdoc
     institution: The Chinese University of Hong Kong
-#    year: 2015-2020
+    year: 2015-2020
   - course: PhD
     institution: The Chinese University of Hong Kong
-#    year: 2010-2015
+    year: 2010-2015
   - course: MS
     institution: Tsinghua University
-#    year: 2006-2010
+    year: 2006-2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
