@@ -20,7 +20,7 @@ content:
   - Assistant Professors
   - Postdoctoral Fellows
   - Graduate Students
-  - Research Assistants (RA)
+  - Research Assistants
   - Visiting Students
   - Administration
   - Alumni
