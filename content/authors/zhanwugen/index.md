@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:724443180@qq.com'
+  link: 'wg.zhan@siat.ac.cn'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/ZhaolianLu
