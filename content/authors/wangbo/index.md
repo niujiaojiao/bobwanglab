@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zheng.hu@siata.ac.cn'
+  link: 'mailto:bo.wang@siat.ac.cn'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/huzheng1
