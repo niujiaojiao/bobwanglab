@@ -1,5 +1,5 @@
 ---
-title: A new publication in Frontiers in Microbiology
+title: A new publication in Frontiers in Microbiology!
 subtitle: 
 
 # Link this post with a project
@@ -35,4 +35,6 @@ authors:
 
 ---
 
-Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system.
+The title is Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system.
+The authors are Ho Shing Chan1, Kemeng Xiao1, Tsz Ho Tsang, Cuiping Zeng, Bo Wang*, Xingxing Peng, Po Keung Wong*
+
