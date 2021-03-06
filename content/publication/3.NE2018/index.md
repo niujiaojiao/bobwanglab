@@ -1,11 +1,14 @@
 ---
-title: "Biohybrid photoheterotrophic metabolism for significant enhancement of biological nitrogen fixation in pure microbial cultures"
+title: "AglnS2/In2S3 heterostructure sensitization of Escherichia coli for sustainable hydrogen production"
 authors:
-- 3. Bo Wang
-- Kemeng Xiao
-- Zhifeng Jiang
-- Jianfang Wang*
-- Jimmy Chai-mei Yu*
+- 3. Zhifeng Jiang
+- Bo Wang
+- Jimmy Chai-mei Yu
+- Jianfang Wang
+- Taicheng An
+- Huijun Zhao
+- Huaming Li
+- Shouqi Yuan*
 - Po Keung Wong*
 
 
@@ -13,8 +16,8 @@ authors:
 author_notes:
 - "Contributed equally"
 - "Contributed equally"
-date: "2019-11-24T00:00:00Z"
-doi: "https://pubs.rsc.org/en/content/articlelanding/2019/EE/C9EE00705A#!divAbstract"
+date: "2018-11-24T00:00:00Z"
+doi: "https://doi.org/10.1016/j.nanoen.2018.02.001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-3-1T00:00:00Z"
@@ -26,7 +29,7 @@ publishDate: "2021-3-1T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy & Environmental Science, 12* (2185-2191)"
+publication: "*Nano Energy, 46* (234-240)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 #abstract: 
