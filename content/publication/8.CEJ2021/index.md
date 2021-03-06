@@ -2,30 +2,16 @@
 title: "Effective photocatalytic inactivation of the plant-pathogen Rhizobium radiobacter by carbon-based material: Mechanism and agriculture application
 "
 authors:
-- Shaoping Ling
-- Zheng Hu
-- Zuyu Yang
-- Fang Yang
-- Yawei Li
-- Pei Lin
-- Ke Chen
-- Lili Dong
-- Lihua Cao
-- Yong Tao
-- Lingtong Hao
-- Qingjian Chen
-- Qiang Gong
-- Dafei Wu
-- Wenjie Li
-- Wenming Zhao
-- Xiuyun Tian
-- Chunyi Hao
-- Eric A Hungate
-- Daniel VT Catenacci
-- Richard R Hudson
-- Wen-Hsiung Li
-- Xuemei Lu
-- Chung-I Wu
+- Kemeng Xiao
+- Tieyuan Liu
+- Panqing Yin
+- Xiaoning Ren
+- Jun Liang
+- Wugen Zhan
+- Jianhua Zhang
+- Bo Wang*
+- Po Keung Wong*
+
 
 author_notes:
 - "Contributed equally"
@@ -33,7 +19,7 @@ author_notes:
 - "Contributed equally"
 - "Contributed equally"
 date: "2015-11-24T00:00:00Z"
-doi: "https://doi.org/10.1073/pnas.1519556112"
+doi: "https://doi.org/10.1016/j.cej.2020.127047"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-11-24T00:00:00Z"
@@ -45,8 +31,8 @@ publishDate: "2015-11-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PNAS, 112*(E6496-E6505)"
-publication_short: "*PNAS, 112*(1113–1122)"
+publication: "*Chemical Engineering Journal, 407*(127047)"
+#publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: The prevailing view that the evolution of cells in a tumor is driven by Darwinian selection has never been rigorously tested. Because selection greatly affects the level of intratumor genetic diversity, it is important to assess whether intratumor evolution follows the Darwinian or the non-Darwinian mode of evolution. To provide the statistical power, many regions in a single tumor need to be sampled and analyzed much more extensively than has been attempted in previous intratumor studies. Here, from a hepatocellular carcinoma (HCC) tumor, we evaluated multiregional samples from the tumor, using either whole-exome sequencing (WES) (n = 23 samples) or genotyping (n = 286) under both the infinite-site and infinite-allele models of population genetics. In addition to the many single-nucleotide variations (SNVs) present in all samples, there were 35 “polymorphic” SNVs among samples. High genetic diversity was evident as the 23 WES samples defined 20 unique cell clones. With all 286 samples genotyped, clonal diversity agreed well with the non-Darwinian model with no evidence of positive Darwinian selection. Under the non-Darwinian model, MALL (the number of coding region mutations in the entire tumor) was estimated to be greater than 100 million in this tumor. DNA sequences reveal local diversities in small patches of cells and validate the estimation. In contrast, the genetic diversity under a Darwinian model would generally be orders of magnitude smaller. Because the level of genetic diversity will have implications on therapeutic resistance, non-Darwinian evolution should be heeded in cancer treatments even for microscopic tumors.
 
