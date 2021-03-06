@@ -6,7 +6,7 @@ authors:
 - Zhifeng Jiang
 - Jianfang Wang*
 - Jimmy Chai-mei Yu*
-- Po Keung Wong*
+- Po Keung Wong
 
 
 
