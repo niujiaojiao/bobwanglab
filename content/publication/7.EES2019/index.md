@@ -1,6 +1,5 @@
 ---
-title: "Effective photocatalytic inactivation of the plant-pathogen Rhizobium radiobacter by carbon-based material: Mechanism and agriculture application
-"
+title: "Biohybrid photoheterotrophic metabolism for significant enhancement of biological nitrogen fixation in pure microbial cultures"
 authors:
 - 7. Bo Wang
 - Kemeng Xiao
@@ -16,7 +15,7 @@ author_notes:
 - "Contributed equally"
 
 date: "2019"
-doi: "https://doi.org/10.1016/j.cej.2020.127047"
+doi: "https://pubs.rsc.org/en/content/articlelanding/2019/EE/C9EE00705A#!divAbstract"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-3-1T00:00:00Z"
