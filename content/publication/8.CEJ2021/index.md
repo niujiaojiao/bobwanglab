@@ -30,10 +30,10 @@ publishDate: "2021-3-1T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chemical Engineering Journal, 407*(127047)"
+publication: "*Chemical Engineering Journal, 407* (127047)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
-abstract: The prevailing view that the evolution of cells in a tumor is driven by Darwinian selection has never been rigorously tested. Because selection greatly affects the level of intratumor genetic diversity, it is important to assess whether intratumor evolution follows the Darwinian or the non-Darwinian mode of evolution. To provide the statistical power, many regions in a single tumor need to be sampled and analyzed much more extensively than has been attempted in previous intratumor studies. Here, from a hepatocellular carcinoma (HCC) tumor, we evaluated multiregional samples from the tumor, using either whole-exome sequencing (WES) (n = 23 samples) or genotyping (n = 286) under both the infinite-site and infinite-allele models of population genetics. In addition to the many single-nucleotide variations (SNVs) present in all samples, there were 35 “polymorphic” SNVs among samples. High genetic diversity was evident as the 23 WES samples defined 20 unique cell clones. With all 286 samples genotyped, clonal diversity agreed well with the non-Darwinian model with no evidence of positive Darwinian selection. Under the non-Darwinian model, MALL (the number of coding region mutations in the entire tumor) was estimated to be greater than 100 million in this tumor. DNA sequences reveal local diversities in small patches of cells and validate the estimation. In contrast, the genetic diversity under a Darwinian model would generally be orders of magnitude smaller. Because the level of genetic diversity will have implications on therapeutic resistance, non-Darwinian evolution should be heeded in cancer treatments even for microscopic tumors.
+#abstract: 
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
