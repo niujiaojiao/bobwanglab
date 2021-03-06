@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Semiconductor nanomaterials
+summary: To empower microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity. To investigate the behavior and molecular mechanisms of cells during the process, based on techniques in materials chemistry, photoelectrochemical catalysis, metabolic engineering, microbial electrosynthesis, and synthetic biology..
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
