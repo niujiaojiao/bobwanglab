@@ -2,7 +2,7 @@
 title: "Effective photocatalytic inactivation of the plant-pathogen Rhizobium radiobacter by carbon-based material: Mechanism and agriculture application
 "
 authors:
-- Kemeng Xiao
+- 8. Kemeng Xiao
 - Tieyuan Liu
 - Panqing Yin
 - Xiaoning Ren
