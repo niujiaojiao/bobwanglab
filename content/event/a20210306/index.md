@@ -35,5 +35,5 @@ authors:
 
 ---
 
-Title: Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system.
+With title: Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system.
 
