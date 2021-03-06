@@ -1,7 +1,7 @@
 ---
 title: "Solar-light-driven rapid water disinfection by ultrathin magnesium titanate/carbon nitride hybrid photocatalyst: Band structure analysis and role of reactive oxygen species"
 authors:
-- 1. Zhifeng Jiang
+- 4. Zhifeng Jiang
 - Bo Wanng
 - Yan Li
 - Ho Shing Chan
@@ -32,7 +32,7 @@ publishDate: "2021-3-1T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy & Environmental Science, 12* (2185-2191)"
+publication: "*Applied Catalysis B: Environmental, 257* (117898)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 #abstract: 
