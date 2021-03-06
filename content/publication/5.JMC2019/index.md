@@ -1,20 +1,16 @@
 ---
-title: "Biohybrid photoheterotrophic metabolism for significant enhancement of biological nitrogen fixation in pure microbial cultures"
+title: "Treated rape pollen: a metal-free visible-light-driven photocatalyst from nature for efficient water disinfection"
 authors:
 - 5. Bo Wang
-- Kemeng Xiao
-- Zhifeng Jiang
-- Jianfang Wang*
+- Zhifeng Jiang*
 - Jimmy Chai-mei Yu*
-- Po Keung Wong*
 
 
 
 author_notes:
 - "Contributed equally"
-- "Contributed equally"
 date: "2019-11-24T00:00:00Z"
-doi: "https://pubs.rsc.org/en/content/articlelanding/2019/EE/C9EE00705A#!divAbstract"
+doi: "https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta01704f/unauth#!divAbstract"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-3-1T00:00:00Z"
@@ -26,7 +22,7 @@ publishDate: "2021-3-1T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy & Environmental Science, 12* (2185-2191)"
+publication: "*Journal of Materials Chemistry A, 7* (9335-9344)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 #abstract: 
