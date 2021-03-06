@@ -1,11 +1,16 @@
 ---
-title: "Biohybrid photoheterotrophic metabolism for significant enhancement of biological nitrogen fixation in pure microbial cultures"
+title: "Solar-light-driven rapid water disinfection by ultrathin magnesium titanate/carbon nitride hybrid photocatalyst: Band structure analysis and role of reactive oxygen species"
 authors:
-- 1. Bo Wang
-- Kemeng Xiao
-- Zhifeng Jiang
-- Jianfang Wang*
-- Jimmy Chai-mei Yu*
+- 1. Zhifeng Jiang
+- Bo Wanng
+- Yan Li
+- Ho Shing Chan
+- Hongli Sun
+- Tianqi Wang
+- Huaming Li
+- Shouqi Yuan
+- Michael K.H. Leung
+- Anhuai Lu*
 - Po Keung Wong*
 
 
@@ -13,8 +18,9 @@ authors:
 author_notes:
 - "Contributed equally"
 - "Contributed equally"
+- "Contributed equally"
 date: "2019-11-24T00:00:00Z"
-doi: "https://pubs.rsc.org/en/content/articlelanding/2019/EE/C9EE00705A#!divAbstract"
+doi: "https://doi.org/10.1016/j.apcatb.2019.117898"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-3-1T00:00:00Z"
