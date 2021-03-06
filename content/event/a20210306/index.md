@@ -35,4 +35,5 @@ authors:
 
 ---
 
-Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system
+Title: Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system
+Authors: Ho Shing Chan1, Kemeng Xiao1, Tsz Ho Tsang, Cuiping Zeng, Bo Wang*, Xingxing Peng, Po Keung Wong*
