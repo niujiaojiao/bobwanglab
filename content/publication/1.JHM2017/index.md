@@ -1,26 +1,20 @@
 ---
-title: "Solar-light-driven rapid water disinfection by ultrathin magnesium titanate/carbon nitride hybrid photocatalyst: Band structure analysis and role of reactive oxygen species"
+title: "Removal of harmful alga, Chattonella marina, by recyclable natural magnetic sphalerite"
 authors:
-- 1. Zhifeng Jiang
-- Bo Wanng
-- Yan Li
-- Ho Shing Chan
-- Hongli Sun
-- Tianqi Wang
-- Huaming Li
-- Shouqi Yuan
-- Michael K.H. Leung
-- Anhuai Lu*
+- 1. Bo Wang
+- Dan Wu
+- Ka Him Chu
+- Liqun Ye
+- Ho Yin Yip
+- Zhonghua Cai
 - Po Keung Wong*
 
 
 
 author_notes:
 - "Contributed equally"
-- "Contributed equally"
-- "Contributed equally"
-date: "2019-11-24T00:00:00Z"
-doi: "https://doi.org/10.1016/j.apcatb.2019.117898"
+date: "2017-11-24T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jhazmat.2016.11.018"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-3-1T00:00:00Z"
@@ -32,7 +26,7 @@ publishDate: "2021-3-1T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy & Environmental Science, 12* (2185-2191)"
+publication: "*Journal of Hazardous Materials, 324* (498-506)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 #abstract: 
