@@ -35,4 +35,4 @@ authors:
 
 ---
 
-This grant will support Zhaolian to apply single-cell lineage tracing to track the clonal evolution of tumor initiation and progression.
+Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system.
