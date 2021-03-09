@@ -64,3 +64,5 @@ email: ""
 user_groups:
 - Assistant Professors
 ---
+Ph.D, Peking University
+Research interests:  1) Extracellular electron transport, 2) Bioelectrosynthesis.
