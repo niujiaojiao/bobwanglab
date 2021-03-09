@@ -1,12 +1,12 @@
 ---
-title: A new publication in Frontiers in Microbiology!
+title: Warm welcome to Lin Wang to join us!
 subtitle: 
 
 # Link this post with a project
 # projects: []
 
 # Date published
-date: "2021-02-01T13:00:00Z"
+date: "2021-09-09T13:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -35,7 +35,7 @@ authors:
 
 ---
 
-Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system.
+欢迎王琳加入课题组！
 
 
 
