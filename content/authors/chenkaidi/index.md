@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pq.yin@siat.ac.cn'
+  link: 'mailto:kd.chen@siat.ac.cn'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/ZhaolianLu
@@ -64,3 +64,4 @@ email: ""
 user_groups:
 - Postgraduate Students
 ---
+B.S., Dalian University of Technology
