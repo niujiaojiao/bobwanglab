@@ -64,3 +64,4 @@ email: ""
 user_groups:
 - Research Assistants
 ---
+M.S., Biochemistry and molecular biology, Lanzhou University of Technology & Tsinghua University
