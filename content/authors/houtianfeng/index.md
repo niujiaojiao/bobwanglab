@@ -64,3 +64,5 @@ email: ""
 user_groups:
 - Postdoctoral Fellows
 ---
+Ph.D, Mechanical Engineering, Chonnam National University
+Research interests: 1) Semi-artificial photocatalytic system for energy conversion;2) Photoelectrochemical water splitting.
