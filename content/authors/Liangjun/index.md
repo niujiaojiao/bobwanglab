@@ -4,7 +4,7 @@ title: Jun Liang（梁俊)
 
 # Username (this should match the folder name)
 authors:
-- Liangjun
+- liangjun
 
 # Is this the primary user of the site?
 superuser: false
@@ -64,3 +64,5 @@ email: ""
 user_groups:
 - Postdoctoral Fellows
 ---
+Ph.D, Chemistry, University of Sydney
+Research Interests: 1) Semi-artificial photocatalytic system for energy conversion; 2) Semiconductor nanomaterials for microbial cell factories.
