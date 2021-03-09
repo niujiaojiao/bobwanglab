@@ -13,11 +13,11 @@ authors:
 
 author_notes:
 - "Contributed equally"
-date: "2017-11-24T00:00:00Z"
+date: "2017-01-24T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jhazmat.2016.11.018"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-3-1T00:00:00Z"
+publishDate: "2021-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
