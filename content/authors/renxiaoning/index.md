@@ -64,3 +64,5 @@ email: ""
 user_groups:
 - Research Assistants
 ---
+M.S., Physical Chemistry, Dalian University of Technology
+B.S., Pharmaceutical Engineering, Henan Normal University
