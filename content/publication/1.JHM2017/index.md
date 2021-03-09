@@ -13,7 +13,7 @@ authors:
 
 author_notes:
 - "Contributed equally"
-date: "2017-01-24T00:00:00Z"
+date: "2017-02-15T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jhazmat.2016.11.018"
 
 # Schedule page publish date (NOT publication's date).
