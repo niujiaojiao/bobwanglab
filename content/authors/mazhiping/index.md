@@ -64,3 +64,4 @@ email: ""
 user_groups:
 - Research Assistants
 ---
+B. S., Food Science and Engineering, Harbin Institute of Technology
