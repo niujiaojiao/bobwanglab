@@ -19,8 +19,8 @@ content:
   - Principal Investigator
   - Assistant Professors
   - Postdoctoral Fellows
-  - Postgraduate Students
   - Research Assistants
+  - Postgraduate Students
   - Visiting Students
   - Administration
   - Alumni
