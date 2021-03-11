@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Principal Investigator (PI)
+#role: Principal Investigator (PI)
 
 # Organizations/Affiliations
 # organizations:
