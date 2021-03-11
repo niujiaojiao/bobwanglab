@@ -10,8 +10,7 @@ role: Institute of Synthetic Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Shenzhen Institute of Advanced Technology
-        Chinese Academy of Sciences
+- name: Shenzhen Institute of Advanced Technology               Chinese Academy of Sciences
   url: http://english.siat.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
