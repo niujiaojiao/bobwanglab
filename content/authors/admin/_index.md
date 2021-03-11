@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wangbo Lab
+title: Semi-artificial Photosynthetic Cell Factory Lab
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,8 @@ role: Institute of Synthetic Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+- name: Shenzhen Institute of Advanced Technology
+        Chinese Academy of Sciences
   url: http://english.siat.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Semi-artificial photosynthetic system
+- Semi-artificial photosynthesis
 - Photoelectrochemical catalysis
 - Microbial electrosynthesis
 
