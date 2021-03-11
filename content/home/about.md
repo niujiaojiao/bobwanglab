@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: About the lab
+title: About the Semi-artificial Photosynthetic Cell Factory Laboratory
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
