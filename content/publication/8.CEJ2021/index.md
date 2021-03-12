@@ -2,7 +2,7 @@
 title: "Effective photocatalytic inactivation of the plant-pathogen Rhizobium radiobacter by carbon-based material: Mechanism and agriculture application
 "
 authors:
-- 8. Kemeng Xiao
+- Kemeng Xiao
 - Tieyuan Liu
 - Panqing Yin
 - Xiaoning Ren
@@ -10,7 +10,7 @@ authors:
 - Wugen Zhan
 - Jianhua Zhang
 - Bo Wang*
-- Po Keung Wong*
+- Po Keung Wong
 
 
 author_notes:
@@ -33,7 +33,7 @@ publication_types: ["2"]
 publication: "*Chemical Engineering Journal, 407* (127047)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
-#abstract: 
+abstract: Photocatalysts made of earth-abundant elements using simple fabrication methods are highly desirable for bacterial inactivation in practical applications. This study proved that the carbon-based g-C3N4 could act as an effective antagonist to the ubiquitous plant-pathogen Rhizobium radiobacter with good photostability and reusability under visible light. The applying of g-C3N4 efficiently improved the survivability of tobacco seedlings under the stress of R. radiobacter and showed no adverse effect on tobacco growth compared with the common metal-based TiO2 and CdS photocatalysts. The systematic mechanism studies revealed that the photoinduced reactive species (RSs) were strongly involved in the photocatalytic bacterial inactivation process, with an effectiveness of h+ >radical dotO2− >radical dotOH > H2O2 > e− > 1O2. The direct contact between g-C3N4 and bacterial cells was also essential for the effective bacterial inactivation. Although bacterial self-protection system (SOD and CAT enzymes) functioned in the initial period, the accumulated RSs damaged cell membrane structure as well as membrane-associated respiration and ATP synthesis ability, finally leading to the leakage of cellular building blocks (K+, TOC, DNA and RNA) and irreversible cell death. This study illustrated that the g-C3N4 could be used as an ideal photocatalytic bactericide towards agriculture application to improve the plant resistance to pathogens with good biocompatibility and low-cost.
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
