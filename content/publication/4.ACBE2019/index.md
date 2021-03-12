@@ -1,8 +1,8 @@
 ---
 title: "Solar-light-driven rapid water disinfection by ultrathin magnesium titanate/carbon nitride hybrid photocatalyst: Band structure analysis and role of reactive oxygen species"
 authors:
-- 4. Zhifeng Jiang
-- Bo Wanng
+- Zhifeng Jiang
+- Bo Wang
 - Yan Li
 - Ho Shing Chan
 - Hongli Sun
@@ -10,8 +10,8 @@ authors:
 - Huaming Li
 - Shouqi Yuan
 - Michael K.H. Leung
-- Anhuai Lu*
-- Po Keung Wong*
+- Anhuai Lu
+- Po Keung Wong
 
 
 
@@ -35,7 +35,7 @@ publication_types: ["2"]
 publication: "*Applied Catalysis B: Environmental, 257* (117898)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
-#abstract: 
+abstract: Novel and cost-effective Z-scheme 2D/2D MgTi2O5/g-C3N4 hybrid was synthesized by in situ growth of MgTi2O5 on the g-C3N4 nanosheets. The photocatalytic activity of as-prepared hybrid was investigated using bacteria disinfection. The results indicated that the composite exhibited enhanced E. coli inactivation under visible light (VL) irradiation, with the complete inactivation of 7 log10 cfu/mL of cells reduction within 3 h, while the pristine g-C3N4 and MgTi2O5 almost showed no cell reduction under the same condition. The destruction of bacterial cell was investigated by fluorescence microscopic images and transmission electron microscopy analysis. The optimum photoactivity could be attributed to 1) the short charge transport distance and large interface contact area of the 2D/2D structure, 2) the efficient charge separation and spatially separated reductive and oxidative active sites originated from Z-scheme system. This work could shed lights on the design and fabrication of 2D/2D Z-scheme system for VL driven water disinfection.
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
