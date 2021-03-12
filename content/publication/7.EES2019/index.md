@@ -1,12 +1,12 @@
 ---
 title: "Biohybrid photoheterotrophic metabolism for significant enhancement of biological nitrogen fixation in pure microbial cultures"
 authors:
-- 7. Bo Wang
+- Bo Wang
 - Kemeng Xiao
 - Zhifeng Jiang
-- Jianfang Wang*
-- Jimmy Chai-mei Yu*
-- Po Keung Wong*
+- Jianfang Wang
+- Jimmy Chai-mei Yu
+- Po Keung Wong
 
 
 
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: "*Energy & Environmental Science, 12* (2185-2191)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
-#abstract: 
+#abstract: We induce the coating of biocompatible cadmium sulfide (CdS) nanoparticles (NPs) on the living cell surface of a versatile photoheterotrophic bacterium, Rhodopseudomonas palustris. The photo-induced electrons from the CdS NPs significantly improve the biological nitrogen fixation in pure cultures of R. palustris, as shown by increased nitrogenase activity, additional H2 evolution, elevated reducing equivalents, and increased intracellular ammonia and L-amino acids. As a result, an additional 153% of solid biomass is accumulated by the biohybrid cells, with outstanding photosynthetic efficiency of 6.73% and a nearly unaffected malate usage efficiency of 0.06 g h−1. The number of NPs and the cross-membrane interface both play important roles in the efficient generation and transduction of electrons. The biohybrid cells continuously fix N2 when sufficient N is available, thus revealing excessive reducing power. The Calvin cycle also contributes 28.1% to the additional solid biomass in the presence of available CO2. The CdS-coated photoheterotrophic cells exhibit excellent practical feasibility with an industrial waste carbon source under a solar/dark cycle. This study provides a facile and expandable strategy for other studies of visible-light-driven ambient N2 fixation and advanced solar-to-chemical conversion.
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
