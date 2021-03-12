@@ -1,13 +1,13 @@
 ---
 title: "Enhanced Biological Hydrogen Production from Escherichia coli with Surface Precipitated Cadmium Sulfide Nanoparticles"
 authors:
-- 2. Bo Wang
+- Bo Wang
 - Cuiping Zeng
 - Ka Him Chu
 - Dan Wu
 - Ho Yin Yip
-- Liqun Ye*
-- Po Keung Wong*
+- Liqun Ye
+- Po Keung Wong
 
 
 
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: "*Advanced Energy Materials, 7* (1700611)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
-#abstract: 
+abstract: The precipitation of cadmium sulfide nanoparticles is induced on the surface of Escherichia coli, and the biological hydrogen production efficiency under visible light (VL) irradiation is investigated. When endogenous [Ni–Fe]‐hydrogenase is anaerobically induced, an additional 400 µmol of hydrogen gas is generated within 3 h from the hybrid system suspension (50 mL) under VL irradiation (2000 W m−2), corresponding to an increase in hydrogen production of ≈30%. The apparent quantum efficiencies of the hybrid system under 470 and 620 nm VL irradiation are 7.93% and 9.59%, respectively, which are higher than those of many photoheterotrophic bacteria. Furthermore, the mechanism of the enhanced hydrogen evolution is investigated. The interaction between photogenerated electrons and cells of E. coli is confirmed by heat‐treatment, electron‐scavenger, and separation studies. The acceleration of pyruvate generation, inhibition of lactate fermentation, increase of formate concentration, stimulation of hydrogenase activity, and elevation of nicotinamide adenine dinucleotide (NAD)H/NAD ratio in the hybrid system are responsible for the enhanced hydrogen production. A feasibility study is also conducted using wastewater and natural sunlight for the hydrogen production by the hybrid system. An additional 120 µmol of hydrogen is generated from the hybrid system within 3 h under these conditions using natural resources.
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
