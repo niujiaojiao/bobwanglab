@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Institute of Synthetic Biology
+title: Wang Lab
 
 # Is this the primary user of the site?
 superuser: true
