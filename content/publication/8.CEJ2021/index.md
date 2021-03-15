@@ -14,8 +14,8 @@ authors:
 
 
 author_notes:
-- "Contributed equally"
-- "Contributed equally"
+- ""
+- ""
 - ""
 - ""
 - ""
