@@ -1,5 +1,5 @@
 ---
-title: "Growth and Toxin Production of Gambierdiscus spp. Can Be Regulated by Quorum-Sensing Bacteria"
+title: "Growth and toxin production of Gambierdiscus spp. can be regulated by quorum-sensing bacteria"
 authors:
 - Bo Wang
 - Mimi Yao
