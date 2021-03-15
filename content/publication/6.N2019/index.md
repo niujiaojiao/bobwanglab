@@ -1,5 +1,5 @@
 ---
-title: "Biohybrid photoheterotrophic metabolism for significant enhancement of biological nitrogen fixation in pure microbial cultures"
+title: "Enhanced CO2 reduction and valuable C2+ chemical production by a CdS-photosynthetic hybrid system"
 authors:
 - Bo Wang
 - Zhifeng Jiang
@@ -12,8 +12,11 @@ authors:
 author_notes:
 - "Contributed equally"
 - "Contributed equally"
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 date: "2019-04-17T00:00:00Z"
-doi: "https://pubs.rsc.org/en/content/articlelanding/2019/nr/c9nr02896j#!divAbstract"
+doi: "https://pubs.rsc.org/en/content/articlelanding/2019/nr/c9nr02896j"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-06T00:00:00Z"
