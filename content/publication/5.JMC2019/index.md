@@ -8,7 +8,9 @@ authors:
 
 
 author_notes:
-- "Contributed equally"
+- ""
+- "Corresponding author"
+- "Corresponding author"
 date: "2019-03-20T00:00:00Z"
 doi: "https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta01704f/unauth#!divAbstract"
 
