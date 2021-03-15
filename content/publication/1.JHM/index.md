@@ -12,7 +12,13 @@ authors:
 
 
 author_notes:
-- "Contributed equally"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: "2017-02-15T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jhazmat.2016.11.018"
 
@@ -27,7 +33,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Hazardous Materials, 324* (498-506)"
-publication_short: "*BBA Reviews on Cancer, 2*(109-126)"
+#publication_short: "*BBA Reviews on Cancer, 2*(109-126)"
 
 abstract:
 
