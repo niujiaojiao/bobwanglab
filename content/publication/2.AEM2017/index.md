@@ -12,7 +12,13 @@ authors:
 
 
 author_notes:
-- "Contributed equally"
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 date: "2017-07-14T00:00:00Z"
 doi: "https://doi.org/10.1002/aenm.201700611"
 
