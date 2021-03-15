@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tian-Feng Hou（侯天凤)
+title: Tianfeng Hou（侯天凤)
 
 # Username (this should match the folder name)
 authors:
