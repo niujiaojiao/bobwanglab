@@ -9,20 +9,20 @@ authors:
 - Jun Liang
 - Wugen Zhan
 - Jianhua Zhang
-- Bo Wang*
+- Bo Wang
 - Po Keung Wong
 
 
 author_notes:
-- ""
-- ""
+- "Contributed equally"
+- "Contributed equally"
 - ""
 - ""
 - ""
 - ""
 - ""
 - "Corresponding author"
-- ""
+- "Corresponding author"
 
 date: "2020-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.cej.2020.127047"
