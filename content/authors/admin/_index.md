@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Institute of Synthetic Biology
+title: Wang Lab
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Shenzhen Institute of Advanced Technology
+role: Institute of Synthetic Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Chinese Academy of Sciences
+- name: Shenzhen Institute of Advanced Technology, CAS
   url: http://english.siat.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
