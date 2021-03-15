@@ -35,7 +35,7 @@ publication_types: ["2"]
 publication: "*Journal of Hazardous Materials, 324* (498-506)"
 #publication_short: "*BBA Reviews on Cancer, 2*(109-126)"
 
-abstract: 
+abstract: Fish-killing harmful algal blooms (HABs) of Chattonella marina causes serious hazards and risks to fish farming and environment throughout the world. 
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
