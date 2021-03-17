@@ -18,7 +18,7 @@ author_notes:
 - "Corresponding author"
 - "Corresponding author"
 date: "2019-06-20T00:00:00Z"
-doi: "https://pubs.rsc.org/en/content/articlelanding/2019/EE/C9EE00705A"
+doi: "https://doi.org/10.1039/C9EE00705A"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-07T00:00:00Z"
