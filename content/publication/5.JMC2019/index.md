@@ -12,7 +12,7 @@ author_notes:
 - "Corresponding author"
 - "Corresponding author"
 date: "2019-03-20T00:00:00Z"
-doi: "https://dio.org/10.1039/C9TA01704F"
+doi: "https://doi.org/10.1039/C9TA01704F"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-05T00:00:00Z"
