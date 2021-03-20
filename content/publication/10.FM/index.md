@@ -1,14 +1,12 @@
 ---
 title: "Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system"
 authors:
+- Ho Shing Chan
 - Kemeng Xiao
-- Tieyuan Liu
-- Panqing Yin
-- Xiaoning Ren
-- Jun Liang
-- Wugen Zhan
-- Jianhua Zhang
+- Tsz Ho Tsang
+- Cuiping Zeng
 - Bo Wang
+- Xingxing Peng
 - Po Keung Wong
 
 
@@ -17,10 +15,8 @@ author_notes:
 - "Contributed equally"
 - ""
 - ""
-- ""
-- ""
-- ""
 - "Corresponding author"
+- ""
 - "Corresponding author"
 
 date: "2021-03-01T00:00:00Z"
@@ -39,7 +35,7 @@ publication_types: ["2"]
 publication: "*Chemical Engineering Journal, 407* (127047)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
-abstract: Photocatalysts made of earth-abundant elements using simple fabrication methods are highly desirable for bacterial inactivation in practical applications. This study proved that the carbon-based g-C3N4 could act as an effective antagonist to the ubiquitous plant-pathogen Rhizobium radiobacter with good photostability and reusability under visible light. The applying of g-C3N4 efficiently improved the survivability of tobacco seedlings under the stress of R. radiobacter and showed no adverse effect on tobacco growth compared with the common metal-based TiO2 and CdS photocatalysts. The systematic mechanism studies revealed that the photoinduced reactive species (RSs) were strongly involved in the photocatalytic bacterial inactivation process, with an effectiveness of h+ >radical dotO2− >radical dotOH > H2O2 > e− > 1O2. The direct contact between g-C3N4 and bacterial cells was also essential for the effective bacterial inactivation. Although bacterial self-protection system (SOD and CAT enzymes) functioned in the initial period, the accumulated RSs damaged cell membrane structure as well as membrane-associated respiration and ATP synthesis ability, finally leading to the leakage of cellular building blocks (K+, TOC, DNA and RNA) and irreversible cell death. This study illustrated that the g-C3N4 could be used as an ideal photocatalytic bactericide towards agriculture application to improve the plant resistance to pathogens with good biocompatibility and low-cost.
+abstract: Klebsiella pneumoniae with crude glycerol (CG)-utilizing and hydrogen (H2)-producing abilities was successfully isolated from return activated sludge from Shatin Sewage Treatment Works. The H2 production strategy used in this study was optimized with CG concentrations and 1,020 mol of H2 was generated in 3 h. An inorganic-microbe hybrid system was constructed with metal-free hydrothermal carbonation carbon (HTCC) microspheres to enhance the H2 production under visible light (VL) irradiation. Under optimized VL intensity and HTCC concentration, an elevation of 35.3% in H2 production can be obtained. Electron scavenger study revealed that the photogenerated electrons (e-) from HTCC contributed to the additional H2 production. The variation in intercellular intermediates, enzymatic activity and reducing equivalents also suggested that the photogenerated e- interacted with K. pneumoniae cells to direct the metabolic flux towards H2 production. This study demonstrated the feasibility of using an inorganic-microbe hybrid system as a waste-to-energy technology.
 
 # Summary. An optional shortened abstract.
 summary:  The extreme genetic diversity in a single liver tumor implies clonal evolution under the non-Darwinian mode.
