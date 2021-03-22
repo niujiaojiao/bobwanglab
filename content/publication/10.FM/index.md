@@ -32,7 +32,7 @@ publishDate: "2021-03-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Microbiology, 407* (127047)"
+publication: "*Frontiers in Microbiology, * (accepted)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: Klebsiella pneumoniae with crude glycerol (CG)-utilizing and hydrogen (H2)-producing abilities was successfully isolated from return activated sludge from Shatin Sewage Treatment Works. The H2 production strategy used in this study was optimized with CG concentrations and 1,020 mol of H2 was generated in 3 h. An inorganic-microbe hybrid system was constructed with metal-free hydrothermal carbonation carbon (HTCC) microspheres to enhance the H2 production under visible light (VL) irradiation. Under optimized VL intensity and HTCC concentration, an elevation of 35.3% in H2 production can be obtained. Electron scavenger study revealed that the photogenerated electrons (e-) from HTCC contributed to the additional H2 production. The variation in intercellular intermediates, enzymatic activity and reducing equivalents also suggested that the photogenerated e- interacted with K. pneumoniae cells to direct the metabolic flux towards H2 production. This study demonstrated the feasibility of using an inorganic-microbe hybrid system as a waste-to-energy technology.
