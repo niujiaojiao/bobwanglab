@@ -36,7 +36,7 @@ publishDate: "2021-03-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nano Energy, 46* (234-240)"
+publication: "Nano Energy, 46 (234-240)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: Solar-to-chemical production by photosynthetic biohybrid systems does not only take advantage of the broadband light efficiency of semiconductor but also utilize highly specific biological catalytic power in living organism. Herein, we demonstrate a tandem inorganic-biological hybrid by combining AglnS2/In2S3 and a facultative anaerobic bacterium, Escherichia coli, for biological H2 production. The AglnS2/In2S3@E. coli hybrid system harvests light energy and makes use of anaerobically synthesized bacterial endogenous [Ni-Fe]-hydrogenase and photo-generated electrons from AglnS2/In2S3 hybrid for enhanced H2 evolution efficiency. A highly quantum efficiency (QE) of 3.3% at 720 nm for H2 production is achieved from the hybrid system, exceeding those of many reported photoheterotrophic bacteria. This biomimetic approach may provide a guidance for the interfacing of hybrid semiconductors with living organisms for solar-to-chemical production.
