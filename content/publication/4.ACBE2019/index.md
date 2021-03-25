@@ -40,7 +40,7 @@ publishDate: "2021-03-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Catalysis B: Environmental, 257* (117898)"
+publication: "Applied Catalysis B: Environmental, 257 (117898)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: Novel and cost-effective Z-scheme 2D/2D MgTi2O5/g-C3N4 hybrid was synthesized by in situ growth of MgTi2O5 on the g-C3N4 nanosheets. The photocatalytic activity of as-prepared hybrid was investigated using bacteria disinfection. The results indicated that the composite exhibited enhanced E. coli inactivation under visible light (VL) irradiation, with the complete inactivation of 7 log10 cfu/mL of cells reduction within 3 h, while the pristine g-C3N4 and MgTi2O5 almost showed no cell reduction under the same condition. The destruction of bacterial cell was investigated by fluorescence microscopic images and transmission electron microscopy analysis. The optimum photoactivity could be attributed to 1) the short charge transport distance and large interface contact area of the 2D/2D structure, 2) the efficient charge separation and spatially separated reductive and oxidative active sites originated from Z-scheme system. This work could shed lights on the design and fabrication of 2D/2D Z-scheme system for VL driven water disinfection.
