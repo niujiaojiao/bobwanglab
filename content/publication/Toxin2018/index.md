@@ -39,7 +39,7 @@ publishDate: "2021-03-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Toxins, 10* (257)"
+publication: "Toxins, 10 (257)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: Gambierdiscus spp. are the major culprit responsible for global ciguatera fish poisoning (CFP). At present, the effects of microbiological factors on algal proliferation and toxin production are poorly understood. To evaluate the regulatory roles of quorum-sensing (QS) bacteria in the physiology of Gambierdiscus, co-culture experiments with screened QS strains were conducted in this study. Except for the growth-inhibiting effect from the strain Marinobacter hydrocarbonoclasticus, the algal host generally displayed much higher growth potential and toxin production ability with the existence of QS strains. In addition, Bacillus anthracis particularly exhibited a broad-spectrum growth enhancement effect on various Gambierdiscus types, as well as a remarkable influence on algal toxicity. The variations of algal physiological status, including growth rate, chlorophyll content, and responsive behaviors, are potential reasons for the observed positive or negative affection. This study suggests that QS bacteria regulate the algal growth and toxin production. Based on the evidence, we further speculate that QS bacteria may contribute to the site-specific distribution of CFP risk through regulating the algal host biomass and toxicity.
