@@ -24,7 +24,7 @@ publishDate: "2021-03-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Materials Chemistry A, 7* (9335-9344)"
+publication: "Journal of Materials Chemistry A, 7 (9335-9344)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: Naturally occurring biological materials with porous and hierarchical morphologies offer attractive features to the process of photocatalysis. Motivated by our recent study, a treated rape pollen (TRP), through a facile strategy, is evaluated for its visible-light-driven (VLD) photocatalytic disinfection properties. This nature-based material shows remarkable efficiency for the inactivation of Escherichia coli K-12 among several metal-free photocatalysts. It also exhibits broad-spectrum bactericidal performance towards several common waterborne species. The disinfection efficiency of the TRP can be further enhanced under non-lethal ultraviolet (UV) irradiation. This study shows that superoxide radicals (·O2−) and photogenerated holes (h+) play important roles in the oxidation process, leading to the increase of bacterial membrane permeability and dysfunction of the intracellular antioxidant system. The destruction of bacterial cell leads to the release of cytoplasmic contents, which ultimately results in cell death. The TRP is also stable in repeated disinfection experiments and shows potential for practical application under solar irradiation. This study offers a new insight into the exploration of nature-based biological materials for green and economic environmental remediation.
