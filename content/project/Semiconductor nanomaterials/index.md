@@ -1,6 +1,6 @@
 ---
 title: Semiconductor nanomaterials
-summary: To empower microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity.
+summary: To energize microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity.
 tags:
 #- Deep Learning
 date: "2021-03-14T00:00:00Z"
