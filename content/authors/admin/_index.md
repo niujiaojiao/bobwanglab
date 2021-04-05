@@ -58,7 +58,7 @@ email: ""
 highlight_name: false
 ---
 In the Semi-artificial Photosynthetic Cell Factory Laboratory, we aim to:
-1. Empower microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity. To investigate the behavior and molecular mechanisms of cells during the process, based on techniques in materials chemistry, photoelectrochemical catalysis, metabolic engineering, microbial electrosynthesis, and synthetic biology.
+1. Energize microbial cell factories and cell-free artificial systems with semiconductor nanomaterials driven by light and electricity to produce valuable products. To investigate the behavior and molecular mechanisms of cells during the material energizing process, based on techniques in materials chemistry, photoelectrochemical catalysis, metabolic engineering, microbial electrosynthesis, and synthetic biology.
 2. Promote the construction and application of semi-artificial photosynthetic cell factories. To construct novel semi-artificial photosynthetic systems, via modular assembly, cell surface-display, biomineralization and self-assembly (of cells and semiconducting nanomaterials); to explore their potential applications in energy, environment and biomedicine fields.
 
 We are looking for people who share these interests and are looking for graduate students, postdocs, assistant investigators or research assistants to come join us!
