@@ -38,7 +38,7 @@ publishDate: "2021-03-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Materials Chemistry Frontiers (accepted)"
+publication: "Materials Chemistry Frontiers, 5 (3867-3876)"
 #publication_short: "*PNAS, 112*(1113–1122)"
 
 abstract: Tannic acid (TA)-based modular assembly strategy has exhibited great prospect for fabricating inorganic-biological hybrid systems recently, whereas the technique is still at the early stage of development. Herein, we investigate this strategy in different aspects, including the material suitability, loading effects, and biocompatibility. The successful functionalization of InP nanoparticles, Bi nanospheres and g-C3N4 by TA-Fe3+ nanofilm and the subsequent modular assembly onto the yeast surface demonstrate good versatility of this approach toward different types of nanomaterials. The proper utilization of TA and nanomaterials in the surface-functionalization step is critical for the material loading effect, which can also be negatively impacted by the excessive amounts of TA and Fe3+ in modular assembly process. The biocompatibility of TA-Fe3+ functionalized nanomaterials to the living cells can be optimized via adjusting the relative ratio of TA to nanomaterials during the functionalization. A balance between the material loading and biocompatibility should also be achieved via fine-tuning the TA concentration in biohybrid studies. The deep insight into the TA-based modular assembly strategy endows the rational construction of inorganic-biological hybrid systems with feasible pathway for the development of the solar-to-chemical conversion, also for the microbe-mediated drug delivery, tumor treatment and environmental remediation.
