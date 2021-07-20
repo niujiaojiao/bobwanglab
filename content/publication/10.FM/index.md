@@ -1,5 +1,5 @@
 ---
-title: "Bioremediation of crude glycerol by a sustainable inorganic-microbe hybrid system"
+title: "Bioremediation of crude glycerol by a sustainable organic-microbe hybrid system"
 authors:
 - Ho Shing Chan
 - Kemeng Xiao
