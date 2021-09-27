@@ -31,7 +31,15 @@ design:
   view: 3
 
 authors:
-- admin
+-Tianfeng Hou
+-Jun Liang 
+-Lin Wang
+-Zhaohui Zheng
+-Jiahong Wang
+-Xiwen Xing
+-Hongting Tang
+-Cuiping Zeng
+-Bo Wang*
 
 ---
 
