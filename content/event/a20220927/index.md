@@ -35,4 +35,4 @@ authors:
 
 ---
 
-Cd1-xZnxS Biomineralized by  engineered bacteriun for efficient photocatalytic hydrogen production.
+Cd1-xZnxS Biomineralized by  engineered bacterium for efficient photocatalytic hydrogen production.
