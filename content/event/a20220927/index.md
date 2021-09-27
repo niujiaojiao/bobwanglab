@@ -1,12 +1,12 @@
 ---
-title: A new publication in Material Today Energy!
+title: A new publication in Material Today Energy!!
 subtitle: 
 
 # Link this post with a project
 # projects: []
 
 # Date published
-date: "2021-09-27T13:00:00Z"
+date: "2022-09-27T1:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -15,7 +15,7 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# Place an image named `` in this page's folder and customize its options here.
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
 #  focal_point: ""
@@ -31,8 +31,7 @@ design:
   view: 3
 
 authors:
--Tianfeng Hou
-
+- admin
 
 ---
 
