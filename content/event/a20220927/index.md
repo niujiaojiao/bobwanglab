@@ -31,7 +31,7 @@ design:
   view: 3
 
 authors:
-- admin
+- Tianfeng Hou
 
 ---
 
